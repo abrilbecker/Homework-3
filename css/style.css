@@ -1,0 +1,43 @@
+body {
+    color: #4f4f4f;
+    background-image: url('https://img.freepik.com/free-vector/light-gray-seamless-nature-patterned-background-vector_53876-166105.jpg?semt=ais_hybrid');
+    background-position: center;
+    background-size: cover;
+}
+
+header,
+main {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+
+}
+
+h1 {
+    color: #6a4c93;
+    background-color: #f1f1f1;
+}
+form {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin: auto;
+    width: 80%;
+}
+label {
+    color: #6a4c93;
+
+}
+input, 
+textarea {
+    border-radius: 6px;
+    width: 100%;
+    display: block;
+}
+button {
+    background-color: #6a4c93;
+    color: white;
+    border-radius: 6px;
+
+}
+button :hover {
+    background: #5e3d83;
+}
